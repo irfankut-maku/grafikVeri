@@ -1,0 +1,87 @@
+[
+   {
+       "image": "data/test_images/test_graph1.png",
+       "qa_pairs": [
+           {
+               "question": "Bu grafikte en yüksek satış hangi ayda gerçekleşmiştir?",
+               "answer": "Mart"
+           },
+           {
+               "question": "Grafikteki toplam satış rakamı kaçtır?",
+               "answer": "500"
+           },
+           {
+               "question": "Şubat ayındaki satış rakamı nedir?",
+               "answer": "150"
+           }
+       ]
+   },
+   {
+       "image": "data/test_images/test_graph2.png",
+       "qa_pairs": [
+           {
+               "question": "En yüksek pazar payına sahip şirket hangisidir?",
+               "answer": "Şirket A"
+           },
+           {
+               "question": "Şirket C'nin pazar payı yüzde kaçtır?",
+               "answer": "%25"
+           },
+           {
+               "question": "Şirket B ve Şirket C'nin toplam pazar payı yüzde kaçtır?",
+               "answer": "%60"
+           }
+       ]
+   },
+   {
+       "image": "data/test_images/test_graph3.png",
+       "qa_pairs": [
+           {
+               "question": "Haftanın en sıcak günü hangisidir?",
+               "answer": "Perşembe"
+           },
+           {
+               "question": "Haftanın en soğuk günü hangisidir?",
+               "answer": "Pazartesi"
+           },
+           {
+               "question": "Cuma gününün sıcaklığı kaç derecedir?",
+               "answer": "19°C"
+           }
+       ]
+   },
+   {
+       "image": "data/test_images/test_graph4.png",
+       "qa_pairs": [
+           {
+               "question": "En yüksek ziyaretçi sayısına sahip mağaza hangisidir?",
+               "answer": "Mağaza B"
+           },
+           {
+               "question": "Toplam ziyaretçi sayısı kaçtır?",
+               "answer": "900"
+           },
+           {
+               "question": "Mağaza C'deki ziyaretçi sayısı nedir?",
+               "answer": "150"
+           }
+       ]
+   },
+   {
+       "image": "data/test_images/test_graph5.png",
+       "qa_pairs": [
+           {
+               "question": "En fazla satışa sahip ürün kategorisi hangisidir?",
+               "answer": "Elektronik"
+           },
+           {
+               "question": "Giyim kategorisinin satış yüzdesi kaçtır?",
+               "answer": "%25"
+           },
+           {
+               "question": "Kitap ve Ev Eşyaları kategorilerinin toplam yüzdesi kaçtır?",
+               "answer": "%45"
+           }
+       ]
+   }
+]

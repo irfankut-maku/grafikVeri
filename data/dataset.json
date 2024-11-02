@@ -1,0 +1,155 @@
+[
+   {
+       "image": "data/images/bar_chart_product_sales.png",
+       "qa_pairs": [
+           {
+               "question": "En yüksek satış hangi üründe ve hangi ayda gerçekleşmiştir?",
+               "answer": "Ürün A, Haziran"
+           },
+           {
+               "question": "Ürün B'nin Mart ayındaki satış miktarı kaçtır?",
+               "answer": "170"
+           },
+           {
+               "question": "Ürün A ve Ürün B'nin toplam Nisan ayı satışları kaçtır?",
+               "answer": "410"
+           }
+       ]
+   },
+   {
+       "image": "data/images/bar_chart_department_profits.png",
+       "qa_pairs": [
+           {
+               "question": "En yüksek kâr hangi departmanda ve hangi çeyrekte elde edilmiştir?",
+               "answer": "Satış, 4. Çeyrek"
+           },
+           {
+               "question": "Ar-Ge departmanının 3. çeyrek kârı kaç bin dolardır?",
+               "answer": "105 bin dolar"
+           },
+           {
+               "question": "Pazarlama ve Satış departmanlarının 2. çeyrekteki toplam kârı nedir?",
+               "answer": "220 bin dolar"
+           }
+       ]
+   },
+   {
+       "image": "data/images/bar_chart_weekly_visitors.png",
+       "qa_pairs": [
+           {
+               "question": "En fazla ziyaretçi hangi mağazada ve hangi gün olmuştur?",
+               "answer": "Mağaza A, Pazar"
+           },
+           {
+               "question": "Mağaza C'nin Çarşamba günü ziyaretçi sayısı kaçtır?",
+               "answer": "35"
+           },
+           {
+               "question": "Mağaza B ve Mağaza D'nin toplam Cuma günü ziyaretçi sayısı kaçtır?",
+               "answer": "100"
+           }
+       ]
+   },
+   {
+       "image": "data/images/pie_chart_market_share.png",
+       "qa_pairs": [
+           {
+               "question": "En büyük pazar payına sahip olan şirket hangisidir?",
+               "answer": "Şirket A"
+           },
+           {
+               "question": "Şirket C'nin pazar payı nedir?",
+               "answer": "%20"
+           },
+           {
+               "question": "Şirket B ve Şirket D'nin toplam pazar payı nedir?",
+               "answer": "%45"
+           }
+       ]
+   },
+   {
+       "image": "data/images/pie_chart_income_distribution.png",
+       "qa_pairs": [
+           {
+               "question": "Gelir kaynağının en büyük kısmı nereden sağlanmaktadır?",
+               "answer": "Maaş"
+           },
+           {
+               "question": "Freelance işlerin gelir oranı nedir?",
+               "answer": "%15"
+           },
+           {
+               "question": "Yatırımlar ve diğer kaynakların toplam gelir oranı nedir?",
+               "answer": "%35"
+           }
+       ]
+   },
+   {
+       "image": "data/images/pie_chart_energy_usage.png",
+       "qa_pairs": [
+           {
+               "question": "En fazla enerji tüketimi hangi cihazda gerçekleşmektedir?",
+               "answer": "Isıtma"
+           },
+           {
+               "question": "Aydınlatma cihazlarının enerji tüketim oranı nedir?",
+               "answer": "%15"
+           },
+           {
+               "question": "Soğutma ve aydınlatma cihazlarının toplam enerji tüketim oranı nedir?",
+               "answer": "%35"
+           }
+       ]
+   },
+   {
+       "image": "data/images/table_chart_quarterly_sales.png",
+       "qa_pairs": [
+           {
+               "question": "En yüksek satış hangi çeyrekte yapılmıştır?",
+               "answer": "4. Çeyrek"
+           },
+           {
+               "question": "Güney bölgesinin 2. çeyrekteki satış miktarı kaçtır?",
+               "answer": "140"
+           },
+           {
+               "question": "Doğu ve Batı bölgelerinin 1. çeyrekteki toplam satış miktarı kaçtır?",
+               "answer": "200"
+           }
+       ]
+   },
+   {
+       "image": "data/images/table_chart_monthly_expenses.png",
+       "qa_pairs": [
+           {
+               "question": "Mart ayındaki kira harcaması kaçtır?",
+               "answer": "1300"
+           },
+           {
+               "question": "Şubat ayında gıda için yapılan harcama kaçtır?",
+               "answer": "350"
+           },
+           {
+               "question": "Ocak ayında eğlence ve yardımcı hizmetler için toplam harcama miktarı kaçtır?",
+               "answer": "350"
+           }
+       ]
+   },
+   {
+       "image": "data/images/table_chart_yearly_revenue.png",
+       "qa_pairs": [
+           {
+               "question": "2022 yılında en yüksek gelire sahip departman hangisidir?",
+               "answer": "Satış"
+           },
+           {
+               "question": "2020 yılında IT departmanının geliri nedir?",
+               "answer": "60"
+           },
+           {
+               "question": "Pazarlama departmanının 2021 ve 2022 yıllarındaki toplam geliri kaçtır?",
+               "answer": "175"
+           }
+       ]
+   }
+]
